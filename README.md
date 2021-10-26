@@ -8,8 +8,8 @@ These days I am playing a lot with VSCode (not coding just using/integrating), a
 Lots of past experience in many languages (C, C++, GNU Make, Bash, asm 680x0, Rust, Dart, Perl, TypeScript, JS, HTML, CSS, Scala, Groovy, Python, ObjectiveC, Java, ReBOL, Pascal, COBOL, and some more).
 
 Contributed in the past to:
-- Kemerge (Visual tool to Gentoo emerge command-line tool)
-- Mozilla (worked on porting to BeOS)
+- [Kemerge](http://kemerge.sourceforge.net/) (Visual tool to Gentoo emerge command-line tool)
+- [Mozilla](https://www.mozilla.org/credits/) (worked on porting to BeOS)
 
 Otherwise just asking for fix, submitting bug fix, etc.
 
@@ -18,3 +18,4 @@ Past work:
 - Colubris Networks
 - Zero-Knowlegde
 - Eicon Technologies
+- Mythium, inc (AmigaOS)
